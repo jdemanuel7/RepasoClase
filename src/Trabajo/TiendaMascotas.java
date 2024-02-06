@@ -1,9 +1,9 @@
 package Trabajo;
 
-public class tiendaMascotas {
+public class TiendaMascotas {
     Mascota[] inventario;
     int cantidadMascotas;
-    public tiendaMascotas(){
+    public TiendaMascotas(){
         this.inventario= new Mascota[100];
         this.cantidadMascotas=0;
     }

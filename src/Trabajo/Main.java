@@ -9,7 +9,7 @@ public class Main {
         tiendaMascotas.venderMascota("Lucia");
 
 
-        tiendaMascotas.mostrarInventario();
+        tiendaMascotas.inventarioTienda();
     }
 }
 
